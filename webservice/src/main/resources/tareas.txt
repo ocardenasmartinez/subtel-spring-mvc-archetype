@@ -1,0 +1,6 @@
+Swagger
+Documentar montar ambiente
+JUnit
+Configurar ssh en el gitlab
+Versionamiento de git
+Versionamiento de maven
